@@ -1,0 +1,41 @@
+h1{
+    color:green;
+  }
+  
+  .digit{
+      height:50px;
+      width:50px;
+      background-color:lightblue;
+      margin:10px;
+      border: 1px solid pink;
+      font-size:20px;
+      color:gray;
+    }
+    
+    .operator{
+      height:60px;
+      width:60px;
+      background-color:lightpink;
+      margin:20px;
+      border: 1px solid blue;
+      font-size:40px;
+      color:gray;
+    }
+    
+  .equal, .clear{
+    margin:2%;
+    width:70px;
+    height:70px;
+    background-color:lightyellow;
+    border:2px solid yellow;
+    font-size:25px;
+    color:purple;
+  }
+  
+  .display{
+    margin:3%;
+    font-size:40px;
+    color:purple;
+    font-weight:bolder;
+    
+  }
